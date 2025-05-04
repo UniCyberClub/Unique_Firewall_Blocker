@@ -17,7 +17,7 @@ This is advanced Windows firewall management tool to manage and perform powerful
 3. System notifications for new threats
 
 🔹 Usage:
-1. Download the release version
+1. Download the release version 
 2. Run as Administrator
 3. Monitor active connections
 
